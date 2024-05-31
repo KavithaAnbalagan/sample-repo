@@ -1,1 +1,3 @@
 created sample project successfully
+modified sample file
+This is my first project
